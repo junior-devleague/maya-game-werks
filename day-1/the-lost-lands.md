@@ -3,19 +3,15 @@
 Objective: Use storytelling to influence landscape development.
 
 Concepts Covered:
-Maya Interface
-Materials
-Reference Images
-Block Mesh Technique
+* Maya Interface
+* Materials
+* Reference Images
+* Block Mesh Technique
 
-"The village lies in ruins.
-
+>"The village lies in ruins.
 The guardians have vanished.
-
 The dark beasts lurk in shadows.
-
 All is lost."
-
 -Journey of the Traveler
 
 Many moons ago, there were four guardians that bestowed peace upon the Continent. To the North, South, East, and West, the guardians slept in realms that intersected our reality. Each being harnessed elemental powers that balanced our natural world. Darkness was nowhere to be found.
