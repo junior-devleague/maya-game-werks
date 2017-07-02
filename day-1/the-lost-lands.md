@@ -22,7 +22,7 @@ Concepts Covered:
 
 Many moons ago, there were four guardians that bestowed peace upon the Continent. To the North, South, East, and West, the guardians slept in realms that intersected our reality. Each being harnessed elemental powers that balanced our natural world. Darkness was nowhere to be found.
 
-It is a different story now. The guardian of the South has vanished. Evil creatures now flood through unguarded gates and ravage our lands. The presence of darkness grows stronger every day. Trees and vines grow thick and rampant, water has turned color, and villagers flee their homes in hopes of finding refuge farther North. It is the Age of Darkness.  
+It is a different story now. The guardian of the South has vanished. Evil creatures flood through unguarded gates and ravage our lands. The presence of darkness grows stronger every day. Trees and vines grow thick and rampant, water has turned color, and villagers flee their homes in hopes of finding refuge farther North. It is the Age of Darkness.  
 
 ## The Village
 
