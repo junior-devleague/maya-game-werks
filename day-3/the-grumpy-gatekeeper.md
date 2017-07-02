@@ -9,6 +9,14 @@ Introduction to character design and themes. Use characters to influence environ
 * Animation
 * Rigging (Possibly)
 
+>"Some speculate if the Gatekeeper
+
+>Is really a being of the light,
+
+>Or a true servant of darkness"
+
+>-Journal of the Traveler
+
 ## Lore
 The Gatekeeper is the protector of the guardian realm. He is gigantic in size and guards the gate and portal to the next level. He holds a weapon of his choice and never sleeps. Legend has it that the gatekeeper is part beast.
 
@@ -33,4 +41,4 @@ Defeat the gatekeeper to proceed to the next level. There are areas on the map w
 1. Assign materials to each object.
 2. Create the power-up items and scatter them around your scene.
 3. Design the gatekeeper.
-4. Rig the gatekeeper and create his roaring animation. 
+4. Rig the gatekeeper and create his roaring animation.
