@@ -17,7 +17,7 @@ Use storytelling to influence environment development.
 
 >All is lost."
 
->-Journey of the Traveler
+>-Journal of the Traveler
 
 ## Lore
 
