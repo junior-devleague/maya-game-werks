@@ -33,4 +33,4 @@ Choose an element that will be the theme of the level (fire, wind, water...etc.)
 
 ## Stretch Goals
 1. Assign materials to each object.
-2. Design the key to move on from level and strategically place it in your scene. Whether it be an actual key, gem, or magical journal, make this 'key' obviously the objective for the game.
+2. Design the key and strategically place it in your scene. Whether it be an actual key, gem, or magical journal, make this 'key' obviously the objective for the game.
