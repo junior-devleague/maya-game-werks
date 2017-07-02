@@ -19,10 +19,10 @@ Ex. In the year 4883, candy has dominated the planet. Humans are starting to bec
 
 Requirement | Description
 ----------- | -----------
-Game Type | Explain the type of gameplay this scene has.
-Obstacles | Explain the obstacles that challenge your player.
-Key | Explain where the 'key' in each level is.
-Objective | Explain the objective in this scene.
+Game Type | Specify the type of gameplay this scene has.
+Obstacles | Have at least 1 obstacle that challenges your player.
+Key | Have at least 1 'key' per level.
+Objective | Have at least 1 objective per level.
 
 ## Level Requirements
 
