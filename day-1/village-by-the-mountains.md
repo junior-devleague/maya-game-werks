@@ -1,6 +1,7 @@
 ## A Village By the Mountains
 
-### Objective: Become familiar with Maya tools. Understand how descriptive language changes environment development.
+### Objective:
+Become familiar with Maya tools. Understand how descriptive language changes environment development.
 
 ### Concepts Covered:
 * Maya Interface

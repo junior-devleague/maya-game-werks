@@ -1,6 +1,7 @@
 ## The Lost Lands
 
-### Objective: Use storytelling to influence environment development.
+### Objective:
+Use storytelling to influence environment development.
 
 ### Concepts Covered:
 * Maya Interface
