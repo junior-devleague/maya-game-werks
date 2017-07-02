@@ -1,7 +1,7 @@
 ## Final Project
 
 ### Objective:
-Use storytelling, gameplay, and characters to create a scene of your choice. Be able to explain the lore/legend, gameplay, and characters that will interact with your game design.
+Use storytelling, gameplay, and characters to create a game of your choice. Be able to explain the lore/legend, gameplay, and characters that will interact with your game design.
 
 ## Storytelling Requirements
 
