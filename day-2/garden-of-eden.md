@@ -8,7 +8,10 @@ Introduction to level design and themes. Use gameplay to influence environment d
 * Triangulate
 * Level Design
 * nCloth / FX Menu Set
-* Animation
+* Multi Cut
+* Extrude
+* Boolean
+* Reference Images
 
 >"A garden of peace?
 
@@ -27,7 +30,10 @@ Dodge and avoid the evil plants. Strategically use tools around you to snip at o
 ## The Garden
 
 ## Part I: Block Mesh
-1. Create the base structure of this level using the ```Block Mesh``` technique.  
+1. Look for an image of the garden/forest you want to reference from.
+2. Import the image to your scene.
+3. Make it a Reference image so that it cannot be selected in the scene.
+4. Create the base structure of this level using the ```Block Mesh``` technique.  
 
 ## Part II: Gameplay
 1. Make the landscape compatible with the gameplay.
@@ -42,4 +48,4 @@ Dodge and avoid the evil plants. Strategically use tools around you to snip at o
 
 ## Stretch Goals
 1. Assign materials to each object.
-2. Try to develop a mini boss character for your scene. 
+2. Try to develop a mini boss character for your scene.
