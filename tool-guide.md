@@ -71,4 +71,4 @@ Component Menu | Hold LMB | Shortcut menu with Component Mode Selection options.
 3. Click on the ```Edit Mesh``` Menu -> Extrude. Click and drag on the direction that you want the extrusion to take place in. Double click the values in the smaller Extrude menu box to change the number of divisions that are created.
 
 ## Resources
-[http://help.autodesk.com/view/MAYAUL/2017/ENU/?guid=GUID-F4FCE554-1FA5-447A-8835-63EB43D2690B] (Maya Interface)
+[Maya Interface] (http://help.autodesk.com/view/MAYAUL/2017/ENU/?guid=GUID-F4FCE554-1FA5-447A-8835-63EB43D2690B)
