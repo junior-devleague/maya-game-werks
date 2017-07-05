@@ -70,5 +70,10 @@ Component Menu | Hold LMB | Shortcut menu with Component Mode Selection options.
 2. The Extrude tool works on flat surfaces. Stay in ```Object Mode``` if you are working with a ```Polygon Plane```. Go into ```Face Selection``` mode to select faces.
 3. Click on the ```Edit Mesh``` Menu -> Extrude. Click and drag on the direction that you want the extrusion to take place in. Double click the values in the smaller Extrude menu box to change the number of divisions that are created.
 
+## Importing Images
+1. Hit the ```Spacebar``` on your keyboard to see all four views.
+2. In the view that you would like your image to be imported through, click on ```View``` in the View Panel Menu -> Image Plane -> Import Image.
+3. Look for your image file. Maya will look for the image in the ```source images``` folder that was already created previously. 
+
 ## Resources
 [Maya Interface] (http://help.autodesk.com/view/MAYAUL/2017/ENU/?guid=GUID-F4FCE554-1FA5-447A-8835-63EB43D2690B)
