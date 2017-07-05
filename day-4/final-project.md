@@ -39,3 +39,9 @@ Requirement | Description
 Block Mesh | Incorporate 'blocks' as a foundation for the scene.
 Landscape | Incorporate 'landscape' items (trees,bushes,organic items...etc.)
 Assets | Incorporate at least 3 different assets in your scene.
+
+## Visual Requirements
+
+Requirement | Description
+----------- | -----------
+Color Scheme | Incorporate a color scheme of at least 3 colors for each scene/level.
