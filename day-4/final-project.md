@@ -45,3 +45,21 @@ Assets | Incorporate at least 3 different assets in your scene.
 Requirement | Description
 ----------- | -----------
 Color Scheme | Incorporate a color scheme of at least 3 colors for each scene/level.
+
+## Character Requirements
+
+Requirement | Description
+----------- | -----------
+Age | What is the character age?
+Personality | What are the characteristics of this character?
+Talents | What are its abilities/talents?
+Setting | Where does it live?
+Weaknesses | What weaknesses does it have?
+Gender | Does it have a gender?
+Race | What race is it?
+Experience | What is its experience level?
+Rewards | What rewards can you get from this character?
+Mechanics | How do you play this character? Or, how does this character play?
+Voice | What does its voice sound like?
+Customization | What can you customize from this character?
+Movement/Animation | How does it move? 
